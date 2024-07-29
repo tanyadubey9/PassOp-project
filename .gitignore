@@ -24,4 +24,5 @@ dist-ssr
 *.sw?
 
 # Ignore node_modules directories
-passop-mongo/node_modules/
+node_modules/
+.env
