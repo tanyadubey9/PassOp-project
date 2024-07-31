@@ -10,7 +10,4 @@ export default defineConfig({
   },
   base: '/PassOp-project/',
   plugins: [react()],
-  build: {
-    outDir: 'dist',  // Output directory
-  }
 })
